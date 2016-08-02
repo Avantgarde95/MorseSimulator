@@ -90,7 +90,7 @@ def decode_signals(signals):
             sequence += '1' # dah
 
         if times_off[i] <= sep_elem_char:
-            sequence += '2' # gaps between elemets
+            sequence += '2' # gaps between elements
         elif times_off[i] <= sep_char_word:
             sequence += '3' # gaps between characters
         else:
