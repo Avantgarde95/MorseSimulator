@@ -23,3 +23,6 @@ Simple Morse code simulator in python
 ## References
 
 - Morse code table : based on https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg
+
+## Video
+https://www.youtube.com/watch?v=GKGDQ6Wn6u0
