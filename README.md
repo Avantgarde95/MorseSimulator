@@ -4,7 +4,8 @@ Simple Morse code simulator in python
 
 ## Required
 
-- Python 2.X (2.7 is recommended) with Tkinter support
+- Python 2.X (2.7 is recommended: Run `.py` file.) 
+- or Python 3.X (Run `.py3` file.)
 
 ## Usage
 
@@ -24,5 +25,6 @@ Simple Morse code simulator in python
 
 - Morse code table : based on https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg
 
-## Video
-https://www.youtube.com/watch?v=GKGDQ6Wn6u0
+## Screenshot
+![Screenshot](https://github.com/Avantgarde95/MorseSimulator/blob/master/Screenshot.png)
+
